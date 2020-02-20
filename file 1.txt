@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 This is added in the motor-control branch
 
 
 Another line
-=======
->>>>>>> parent of 34f2551... Update file 1.txt
